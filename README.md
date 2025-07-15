@@ -11,6 +11,7 @@ Ferramenta para exibir e consultar rapidamente os principais atalhos do VS Code 
 ## Como usar
 
 1. **Clone o repositório:**
+
    ```sh
    git clone https://github.com/ecodelearn/atalhos-vscode.git
    cd atalhos-vscode
@@ -36,4 +37,4 @@ Ferramenta para exibir e consultar rapidamente os principais atalhos do VS Code 
 - Para atualizar os atalhos, edite o arquivo [`atalhos_vscode.ps1`](atalhos_vscode.ps1).
 
 ---
-Desenvolvido por Daniel Dias | ecodelearn@outlook.com
+Desenvolvido por Daniel Dias | <ecodelearn@outlook.com>
